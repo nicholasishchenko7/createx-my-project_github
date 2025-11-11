@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Manrope;
+    font-weight: 800; 
+    font-style: normal;
+    src: local("Manrope"), 
+         url("../fonts/AnyConv.com__$R1F1L1C.woff2")format("woff2"),
+         url("../fonts/AnyConv.com__$R1F1L1C.woff")format("woff"),
+         url("../fonts/AnyConv.com__$R1F1L1C.eot")format("eot");
+    font-display: swap;
+}  
+@font-face {
+    font-family: Manrope;
+    font-weight: 700; 
+    font-style: normal;
+    src: local("Manrope"), 
+         url("../fonts/AnyConv.com__$R6T15SZ.woff2")format("woff2"),
+         url("../fonts/AnyConv.com__$R6T15SZ.woff")format("woff"),
+         url("../fonts/AnyConv.com__$R6T15SZ.eot")format("eot");
+    font-display: swap;
+}  
+@font-face {
+    font-family: Manrope;
+    font-weight: 600; 
+    font-style: normal;
+    src: local("Manrope"), 
+         url("../fonts/AnyConv.com__$RR3L5H9.woff")format("woff2"),
+         url("../fonts/AnyConv.com__$RR3L5H9.woff2")format("woff"),
+         url("../fonts/AnyConv.com__$RR3L5H9.eot")format("eot");
+    font-display: swap;
+}  
+
